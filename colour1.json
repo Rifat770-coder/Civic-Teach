@@ -1,0 +1,43 @@
+{
+  "theme": {
+    "name": "Law Firm Tax Consultation",
+    "fonts": {
+      "primary": "Sans-serif, Bold",
+      "secondary": "Sans-serif, Regular"
+    },
+    "colors": {
+      "primary": "#1E3E2D",
+      "secondary": "#FFFFFF",
+      "accent": "#00A859",
+      "textPrimary": "#000000",
+      "textSecondary": "#555555",
+      "buttonPrimaryBackground": "#00A859",
+      "buttonPrimaryText": "#FFFFFF",
+      "buttonSecondaryBackground": "#000000",
+      "buttonSecondaryText": "#FFFFFF",
+      "tagBackground": "#F5F5F5",
+      "tagText": "#333333"
+    },
+    "backgrounds": {
+      "main": "#FFFFFF",
+      "section": "#F9F9F9"
+    },
+    "buttons": {
+      "primary": {
+        "background": "#00A859",
+        "text": "#FFFFFF",
+        "borderRadius": "6px"
+      },
+      "secondary": {
+        "background": "#000000",
+        "text": "#FFFFFF",
+        "borderRadius": "6px"
+      }
+    },
+    "tags": {
+      "background": "#F5F5F5",
+      "text": "#333333",
+      "borderRadius": "20px"
+    }
+  }
+}
